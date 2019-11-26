@@ -23,4 +23,4 @@ if __name__ == '__main__':
     wt = list(map(int, input().split()))
     W = int(input("Insira a capacidade da mochila: "))
     n = len(val) 
-    print("A capacidade da mochila é: {}".format(knapSack(W, wt, val, n))) 
+    print("A valor máximo que se pode carregar na mochila é: {}".format(knapSack(W, wt, val, n))) 
