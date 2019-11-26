@@ -14,7 +14,7 @@
 O programa resolve o problema 0-1 knapsack utilizando programação dinâmica.
 
 ## Screenshots
-![screenshot](../screenshots/screenshot.png)
+![screenshot](screenshots/screenshot.png)
 
 ## Instalação 
 **Linguagem**: Python3<br>
